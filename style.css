@@ -4,6 +4,8 @@
     scroll-behavior: smooth;
 }
 
+/* this is a sytle.css */
+
 .section1{
     width: 100%;
     height: 100vh;
@@ -18,7 +20,7 @@
 }
 
 
-.section2{
+.section2{ 
     width: 100%;
     height: 100vh;
     text-align: center;
